@@ -1,0 +1,10 @@
+# Secrets (never upload these)
+.env
+
+# Dependencies
+node_modules/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
